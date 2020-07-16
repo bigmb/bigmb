@@ -2,7 +2,7 @@
 
 Welcome to my github page. I work at Winnow Solutions as a Machine learning Researcher.
 
-- 🔭 I’m currently also working on a personal project to use hindi words and make it into a code and then combine it with sonic pi. 
+- 🔭 I’m currently also working on a personal project to use Hindi words and transform it into a code and then combine it with sonic pi. 
 - 📫 How to reach me: malav.b93@gmail.com
 <!--
 **bigmb/bigmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
