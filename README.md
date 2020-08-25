@@ -4,7 +4,7 @@ Welcome to my github page. I work at Winnow Solutions as a Machine learning Rese
 
 - 🔭 I’m currently also working on some personal project:
    1) To use Hindi words and transform it into a code and then combine it with sonic pi. 
-   2) To automate trading using Zerodha.
+   2) Use Machine learning for decision making in trading using Zerodha.
 <!--   3) Bone-Breast Metastasis analysis using Neural Networks on NCBI Geo (Gene expression) dataset. -->
 - 📫 How to reach me: malav.b93@gmail.com
 <!--
