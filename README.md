@@ -27,4 +27,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/malav-bateriwala/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
-![Malav's github stats](https://github-readme-stats.vercel.app/api?username=bigmb&show_icons=true&theme=radical)
+ 
+[![Malav's github stats](https://github-readme-stats.vercel.app/api?username=bigmb)](https://github.com/anuraghazra/github-readme-stats)
