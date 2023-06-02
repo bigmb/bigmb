@@ -8,7 +8,7 @@ Welcome to my github page. I work at Winnow Solutions as a Machine learning Rese
    1) OpenSource Code for data stream, loading and Models on TF and Pytorch for different application.
    2) Create opensoruce packages for easy logging and coding.
 <!--   3) Bone-Breast Metastasis analysis using Neural Networks on NCBI Geo (Gene expression) dataset. -->
-- 📫 How to reach me: malav.b93@gmail.com
+- 📫 How to reach me: b.malav93@gmail.com
 <!--
 **bigmb/bigmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
