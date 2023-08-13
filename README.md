@@ -6,7 +6,7 @@ Welcome to my github page. I work at Winnow Solutions as a Machine learning Rese
 
 - 🔭 I’m currently also working on some personal project:
    1) OpenSource Code for data stream, loading and Models on TF and Pytorch for different application.
-   2) Create opensoruce packages for easy logging and coding.
+   2) Create opensource packages for easy logging and coding.
 <!--   3) Bone-Breast Metastasis analysis using Neural Networks on NCBI Geo (Gene expression) dataset. -->
 - 📫 How to reach me: b.malav93@gmail.com
 <!--
