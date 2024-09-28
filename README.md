@@ -4,9 +4,6 @@ Welcome to my github page. I work at Winnow Solutions as a Machine learning Rese
 
 ![](https://komarev.com/ghpvc/?username=bigmb&color=yellow&style=plastic)
 
-- 🔭 I’m currently also working on some personal project:
-   1) OpenSource Code for data stream, loading and Models on TF and Pytorch for different application.
-   2) Create opensource packages for easy logging and coding.
 - 📫 How to reach me: malav.b93@gmail.com
 <!--
 **bigmb/bigmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
