@@ -37,10 +37,5 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigmb&theme=cobalt" alt="bigmb" /></p>
 </details>
-<!--
-<img src="https://profile-counter.glitch.me/bigmb/count.svg" alt="bigmb :: Visitor's Count" />
---!>
-
-![Profile Views](https://komarev.com/ghpvc/?username=bigmb&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bigmb" alt="bigmb" /></a> </p>
