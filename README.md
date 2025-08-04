@@ -23,8 +23,12 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/malav-bateriwala/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
- 
+
+[![Malav's github graph](https://github-readme-activity-graph.vercel.app/graph?username=bigmb&theme=gruvbox)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+<!-- 
 [![Malav's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bigmb&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <details>
   <summary>Github Stats</summary>
