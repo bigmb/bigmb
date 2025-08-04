@@ -24,8 +24,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
-![Metrics](https://metrics.lecoq.io/bigmb)
-
+![Malav's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bigmb&theme=gruvbox)
 <!-- 
 [![Malav's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bigmb&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
