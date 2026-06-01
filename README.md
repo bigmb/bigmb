@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my github page. I work at Winnow Solutions as a Machine learning Researcher.
+Welcome to my github page. 
 
 ![](https://komarev.com/ghpvc/?username=bigmb&color=yellow&style=plastic)
 
