@@ -23,19 +23,35 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/malav-bateriwala/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
+<!-- Profile Summary -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bigmb&theme=gruvbox" alt="Profile Details" width="100%" />
+</p>
 
-![Malav's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bigmb&theme=gruvbox)
-<!-- 
-[![Malav's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bigmb&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
--->
 
+<!-- Expandable Detailed Stats -->
 <details>
-  <summary>Github Stats</summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigmb&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="bigmb" /></p>
+  <summary><b>Detailed GitHub Stats</b></summary>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigmb&show_icons=true&locale=en&theme=cobalt" alt="bigmb" /></p>
+  <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigmb&theme=cobalt" alt="bigmb" /></p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bigmb&theme=gruvbox" alt="Repos Per Language" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bigmb&theme=gruvbox" alt="Most Commit Language" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bigmb&theme=gruvbox&utcOffset=0" alt="Productive Time" />
+  </p>
+
 </details>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bigmb" alt="bigmb" /></a> </p>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=bigmb&label=Profile%20Views&color=458588&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
